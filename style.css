@@ -94,6 +94,8 @@ a:hover {
 }
 
 .profile-pic {
+  width: 400;
+  height: 400;
 border-radius: 50%;
 }
 
